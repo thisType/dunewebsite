@@ -1,0 +1,87 @@
+body{
+
+
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: #b5b0c8;
+}
+
+a.mypagesnav{
+    text-decoration: none;
+    color:#F2DBAE;
+}
+.navigation td{
+  
+    padding: 9px;
+    color:#F2DBAE;
+    background-color: #F27830;
+    text-align: center;
+    font-weight: bold;
+    
+
+}
+a.mypagesnav:hover{
+    color:#730D32;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+table.structure{
+
+    background-color: #9690aa;
+}
+h1{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+    font-weight: bold;
+}
+a.anchor{
+
+    color:blue;
+}
+a.anchor:hover{
+    text-decoration-style: double;
+}
+
+a.inside{
+    color:#0C0426;
+}
+a.inside{
+    text-decoration: none;
+    color:#0f2874;
+
+}
+a.inside:hover{
+    color:#730D32;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+h3{
+    text-align: center;
+    color: #730D32;
+}
+p.funfact{
+
+     border:#730D32 dashed medium;
+     padding:10px;
+     color:#0C0426;
+     font-style: italic;
+
+}
+a.email{
+
+    font-weight:bold;
+    font-style: italic;
+    color:rgb(168, 85, 76);
+}
+a.email:hover{
+    text-decoration-style: dashed;
+}
+a.outside{
+    color:darkgreen;
+
+}
+a.outside:hover{
+    text-decoration-style: double;
+}
